@@ -1,6 +1,6 @@
 # pyprojects
 contain various python projects from coursera or my personal data analyst projects.
-![IBM Professional Certificate](https://www.credly.com/badges/d39cbad2-0943-4ff1-9ebc-d186499de81d)
+- ![IBM Professional Certificate](https://www.credly.com/badges/d39cbad2-0943-4ff1-9ebc-d186499de81d)
 #  Skills Lab Projects (Jupyter Notebooks)
 
 Welcome to my **Skills Lab** repository — a hands-on collection of guided mini-projects and labs completed during my data analytics training. Each project showcases my ability to extract, clean, analyze, and visualize real-world data using Python and Jupyter Notebooks.
