@@ -1,5 +1,5 @@
 # pyprojects
-
+-IBM Data Analyst Professioinal Badge
 - ![IBM Professional Certificate](https://www.credly.com/badges/d39cbad2-0943-4ff1-9ebc-d186499de81d)
 #  Skills Lab Projects (Jupyter Notebooks)
 
